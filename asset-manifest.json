@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/robotreact/static/css/main.5f361e03.chunk.css",
-    "main.js": "/robotreact/static/js/main.876553d0.chunk.js",
-    "main.js.map": "/robotreact/static/js/main.876553d0.chunk.js.map",
+    "main.js": "/robotreact/static/js/main.2e587b14.chunk.js",
+    "main.js.map": "/robotreact/static/js/main.2e587b14.chunk.js.map",
     "runtime-main.js": "/robotreact/static/js/runtime-main.ec2c8a71.js",
     "runtime-main.js.map": "/robotreact/static/js/runtime-main.ec2c8a71.js.map",
-    "static/js/2.9e6ebbf3.chunk.js": "/robotreact/static/js/2.9e6ebbf3.chunk.js",
-    "static/js/2.9e6ebbf3.chunk.js.map": "/robotreact/static/js/2.9e6ebbf3.chunk.js.map",
+    "static/js/2.86339651.chunk.js": "/robotreact/static/js/2.86339651.chunk.js",
+    "static/js/2.86339651.chunk.js.map": "/robotreact/static/js/2.86339651.chunk.js.map",
     "index.html": "/robotreact/index.html",
-    "precache-manifest.1c0a87c9a090a889acbc4921314d6fb2.js": "/robotreact/precache-manifest.1c0a87c9a090a889acbc4921314d6fb2.js",
+    "precache-manifest.e21a5a5b79b4046b92d2f2ff0f680912.js": "/robotreact/precache-manifest.e21a5a5b79b4046b92d2f2ff0f680912.js",
     "service-worker.js": "/robotreact/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/robotreact/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9e6ebbf3.chunk.js.LICENSE.txt": "/robotreact/static/js/2.9e6ebbf3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/robotreact/static/media/logo.5d5d9eef.svg"
+    "static/js/2.86339651.chunk.js.LICENSE.txt": "/robotreact/static/js/2.86339651.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ec2c8a71.js",
-    "static/js/2.9e6ebbf3.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.876553d0.chunk.js"
+    "static/js/2.86339651.chunk.js",
+    "static/js/main.2e587b14.chunk.js"
   ]
 }
